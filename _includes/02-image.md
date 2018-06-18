@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Bitcoin](https://s2.coinmarketcap.com/static/img/coins/16x16/1.png)
